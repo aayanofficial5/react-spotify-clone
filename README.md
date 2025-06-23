@@ -1,12 +1,58 @@
-# React + Vite
+# 🎵 React Spotify 2.0 Clone – Week 5 & 6 (Celebal Internship)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Description
 
-Currently, two official plugins are available:
+This project is part of **Assignment 5** during the **Celebal Internship**. It focuses on building a modern **Spotify 2.0 Clone** using **React**, **Redux Toolkit**, and **Tailwind CSS**. It integrates the **Shazam Core API** to fetch real-time music data and offers a clean, responsive UI with routing, player controls, search, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ React functional components with hooks (`useState`, `useEffect`, `useSelector`, `useDispatch`)
+- ✅ Music data fetched from Shazam Core API
+- ✅ Artist & Song detail pages with navigation
+- ✅ Audio player with play/pause and song control
+- ✅ Top Charts section for trending tracks
+- ✅ Search functionality with real-time results
+- ✅ Redux Toolkit for state management
+- ✅ Routing with React Router
+- ✅ Tailwind CSS for responsive design
+- ✅ Smooth UI with animations and transitions
+
+---
+
+## 🛠️ Technologies Used
+
+- React (with Vite)
+- Redux Toolkit + RTK Query
+- Tailwind CSS
+- React Router DOM
+- JavaScript (ES6+)
+- Shazam Core API
+
+---
+
+## 🔧 Installation
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/aayanofficial5/react-spotify-clone.git
+cd react-spotify-clone
+
+# Install dependencies
+npm install
+
+# Start the server
+npm start
+
+```
+
+## 🙌 Acknowledgements
+
+- Special thanks to **Celebal Technologies** for providing this amazing learning opportunity.
+- Thanks to my mentor and peers for constant guidance and support.
+
+---
+
