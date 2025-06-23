@@ -1,4 +1,4 @@
-# 🎵 React Spotify 2.0 Clone – Week 5 & 6 (Celebal Internship)
+# 🎵 React Spotify 2.0 Clone – Assignment 5 & 6 (Celebal Internship)
 
 ## 📋 Description
 
