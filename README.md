@@ -24,11 +24,14 @@ This project is part of **Assignment 5** during the **Celebal Internship**. It f
 ## 🛠️ Technologies Used
 
 - React (with Vite)
-- Redux Toolkit + RTK Query
+- Redux Toolkit
 - Tailwind CSS
 - React Router DOM
 - JavaScript (ES6+)
 - Shazam Core API
+- Axios
+- Swiper
+- React Icons
 
 ---
 
@@ -47,6 +50,18 @@ npm install
 # Start the server
 npm start
 
+```
+
+## 🔐 Environment Variables Setup
+
+To securely use the Shazam Core API and Geo API, create a `.env` file in the **root directory** of the project:
+
+### ➕ Create `.env`
+
+```env
+# .env
+VITE_SHAZAM_CORE_RAPID_API_KEY=your_shazam_api_key_here
+VITE_GEO_API_KEY=your_geo_api_key_here
 ```
 
 ## 🙌 Acknowledgements
